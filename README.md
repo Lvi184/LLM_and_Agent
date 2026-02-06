@@ -145,3 +145,9 @@
 [MCP course](https://huggingface.co/mcp-course) 模型上下文协议（MCP）课程是您全面了解、使用和构建尖端人工智能应用程序的指南，这些应用程序通过最新的MCP标准利用外部数据和工具。这门免费课程旨在帮助您从初学者成长为MCP领域知识渊博的从业者。
 
 [6 周精通四大主流框架  **Ed Donner**](https://github.com/ed-donner/agents)
+
+
+
+# 工具
+
+[Transformer Explainer: LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/)
