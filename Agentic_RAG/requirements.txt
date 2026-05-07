@@ -1,0 +1,6 @@
+datasets
+smolagents[openai]==1.18.0
+langchain-community
+rank_bm25
+duckduckgo-search
+python-dotenv

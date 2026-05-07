@@ -1,0 +1,1 @@
+pip install -U llama-index llama-index-llms-openai-like python-dotenv duckduckgo-search rank-bm25

@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Lady Ada Lovelace",
+      "relation": "respected mathematician and friend",
+      "description": "Known for pioneering work on Charles Babbage's Analytical Engine and often regarded as the first computer programmer.",
+      "email": "ada.lovelace@example.com"
+    },
+    {
+      "name": "Dr. Nikola Tesla",
+      "relation": "old friend from university days",
+      "description": "Recently patented a new wireless energy transmission system. Passionate about pigeons.",
+      "email": "nikola.tesla@gmail.com"
+    },
+    {
+      "name": "Grace Hopper",
+      "relation": "distinguished computing pioneer",
+      "description": "Invented one of the first linkers and contributed to COBOL. Good topics: compilers, debugging, and naval history.",
+      "email": "grace.hopper@example.com"
+    }
+  ]

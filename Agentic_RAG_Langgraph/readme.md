@@ -1,0 +1,1 @@
+pip install -U langgraph langchain langchain-openai langchain-community python-dotenv rank-bm25 duckduckgo-search

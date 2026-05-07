@@ -1,0 +1,50 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "unit3-invitees",
+  "dataset_size": 820,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/agents-course/unit3-invitees@00594485cd151d2049a0ee562e063f55ce093b48/data/train-00000-of-00001.parquet": {
+      "num_bytes": 3321,
+      "checksum": null
+    }
+  },
+  "download_size": 3321,
+  "features": {
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "email": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4141,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 820,
+      "num_examples": 3,
+      "dataset_name": "unit3-invitees"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
